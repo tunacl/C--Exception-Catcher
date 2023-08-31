@@ -1,0 +1,15 @@
+C:\Users\tunac\source\repos\CatchWarnings\bin\Debug\CatchWarnings.exe.config
+C:\Users\tunac\source\repos\CatchWarnings\bin\Debug\CatchWarnings.exe
+C:\Users\tunac\source\repos\CatchWarnings\bin\Debug\CatchWarnings.pdb
+C:\Users\tunac\source\repos\CatchWarnings\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\tunac\source\repos\CatchWarnings\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\tunac\source\repos\CatchWarnings\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\tunac\source\repos\CatchWarnings\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\tunac\source\repos\CatchWarnings\obj\Debug\CatchWarnings.csproj.AssemblyReference.cache
+C:\Users\tunac\source\repos\CatchWarnings\obj\Debug\CatchWarnings.Properties.Resources.resources
+C:\Users\tunac\source\repos\CatchWarnings\obj\Debug\CatchWarnings.csproj.GenerateResource.cache
+C:\Users\tunac\source\repos\CatchWarnings\obj\Debug\CatchWarnings.csproj.CoreCompileInputs.cache
+C:\Users\tunac\source\repos\CatchWarnings\obj\Debug\CatchWarnings.csproj.CopyComplete
+C:\Users\tunac\source\repos\CatchWarnings\obj\Debug\CatchWarnings.exe
+C:\Users\tunac\source\repos\CatchWarnings\obj\Debug\CatchWarnings.pdb
+C:\Users\tunac\source\repos\CatchWarnings\obj\Debug\CatchWarnings.SearchingForm.resources
